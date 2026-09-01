@@ -1,9 +1,7 @@
-# Tehran House Price Prediction — Built From Scratch
+# Tehran House Price Prediction 
 
 ## What is this?
-My second end-to-end ML project (regression), written using only official
-scikit-learn documentation. No copied kernels, no templates. Every decision
-below is mine — including the mistakes I fixed along the way.
+My second end-to-end ML project (regression)
 
 ## The problem
 Predict house prices in Tehran from 6 features: Area, Room, Parking, Warehouse,
